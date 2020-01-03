@@ -6,5 +6,6 @@ namespace lp2_2019_p2
 {
     class Projectile
     {
+        // Spawn this when Player/Enemy shoots
     }
 }
