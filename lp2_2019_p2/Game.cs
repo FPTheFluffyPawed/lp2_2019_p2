@@ -4,7 +4,8 @@ using System.Text;
 
 namespace lp2_2019_p2
 {
-    class Player
+    class Game
     {
+        // Class that is the actual game
     }
 }

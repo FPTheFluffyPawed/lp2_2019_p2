@@ -4,12 +4,8 @@ using System.Text;
 
 namespace lp2_2019_p2
 {
-    interface IGameObject
+    class PlayerShip
     {
-        void Start();
-
-        void Update();
-
-        void Finish();
+        // The player ship
     }
 }
